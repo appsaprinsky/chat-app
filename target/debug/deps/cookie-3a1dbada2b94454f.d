@@ -1,0 +1,12 @@
+/Users/admin/Desktop/rust/project2/chat-app/target/debug/deps/cookie-3a1dbada2b94454f.rmeta: /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs
+
+/Users/admin/Desktop/rust/project2/chat-app/target/debug/deps/cookie-3a1dbada2b94454f.d: /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs
+
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs:
