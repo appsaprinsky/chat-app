@@ -1,0 +1,1 @@
+{"rustc":13855406254214204650,"features":"[\"alloc\", \"default\", \"std\"]","target":9344696541055699610,"profile":17233310519480204799,"path":9509574734049363824,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/futures-sink-d5f6ba92d7123147/dep-lib-futures-sink"}}],"rustflags":[],"metadata":7510433325232866472,"config":2202906307356721367,"compile_kind":0}
